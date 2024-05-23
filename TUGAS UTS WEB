@@ -1,0 +1,245 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> CV Luthfi Sulthany</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body>
+   <div class="container"> 
+
+        <div class="box-left">
+            <div class="profile">
+              <img src="poto2.jpeg" alt="">
+             </div>
+            <div class="content"> 
+                <!--profile-->
+            <div class="resume-item">
+                 <div class="title">
+                <p class="bold">Luthfi Sulthany Mutaqqien</p>
+                <p class="regular"> Mahasiswa</p>
+            </div>
+            <ul>
+                <li>
+                    <div class="icon"> 
+                        <i class="fa fa-map-signs"></i>
+
+                    </div>
+                    <div class="data">
+                        Sumedang, <br /> Indonesia
+                    </div>
+                </li>
+                <li>
+                    <div class="icon"> 
+                        <i class="fa fa-phone"></i>
+
+                    </div>
+                    <div class="data">
+                       +62 81809507192
+                    </div>
+                    <li>
+                        <div class="icon"> 
+                            <i class="fa fa-envelope"></i>
+    
+                        </div>
+                        <div class="data">
+                           sulthanyluthfi@gmail.com
+                        </div>
+                    </li>
+                
+                </li>
+                <li>
+                    <div class="icon"> 
+                        <i class="fa fa-globe"></i>
+
+                    </div>
+                    <div class="data">
+                       Ini adalah website pertama saya
+                    </div>
+                </li>
+            </ul>
+            </div>
+            <!--skills-->
+            <div class="resume-item resume-skills">
+                <div class="title">
+                    <p class="bold">skill's</p>
+                </div>
+            <ul>
+                <li>
+                    <div class="skill-name">
+                        HTML
+                    </div>
+                    <div class="skill-progress">
+                        <span style="width: 15%;"></span>
+                    </div>
+                    <div class="skill-parcent">15%</div>
+                </li>
+                <li>
+                    <div class="skill-name">
+                        CSS
+                    </div>
+                    <div class="skill-progress">
+                        <span style="width: 10%;"></span>
+                    </div>
+                    <div class="skill-parcent">10%</div>
+                </li>
+                <li>
+                    <div class="skill-name">
+                        C language
+                    </div>
+                    <div class="skill-progress">
+                        <span style="width: 20%;"></span>
+                    </div>
+                    <div class="skill-parcent">20%</div>
+                </li>
+                <li>
+                    <div class="skill-name">
+                        Cyber Security
+                    </div>
+                    <div class="skill-progress">
+                        <span style="width: 20%;"></span>
+                    </div>
+                    <div class="skill-parcent">20%</div>
+                 </li>
+            </ul>
+        </div>
+    <!--social media-->
+    <div class="resume-item resume-social">
+        <div class="title">
+            <p class="bold">social</p>
+        </div>
+        <ul>
+            <li>
+                <div class="icon">
+                    <i class="fa fa-facebook-square"></i>
+                </div>
+                <div class="data">
+                    <p class="semi-bold">Facebook</p>
+                    <a href="https://www.facebook.com/profile.php?id=100009786092133&mibextid=LQQJ4d"> Luthfi Sulthany</a>
+                </div>
+            </li>
+            <li>
+                <div class="icon">
+                    <i class="fa fa-linkedin-square"></i>
+                </div>
+                <div class="data">
+                    <p class="semi-bold">Linkedin</p>
+                    <a href="https://www.linkedin.com/in/luthfi-sulthany-3344152b9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"> Luthfi Sulthany</a>
+                </div>
+            </li>
+            <li>
+                <div class="icon">
+                    <i class="fa fa-youtube-square"></i>
+                </div>
+                <div class="data">
+                    <p class="semi-bold">Youtube</p>
+                    <a href="https://youtube.com/@utongimang6108?si=m1JO3RPAr2hMd0xT"> UT ON </a>
+                </div>
+            </li>
+        </ul>
+    </div>
+</div>
+        </div>
+
+        <div class="box-right">
+            <!--about me-->
+            <div class="resume-item">
+                <div class="title">
+                    <p class="bold">About me</p>
+                </div>
+                <p>
+                    Hallo,ini website pertama saya. 
+                    Nama saya Luthfi Sulthany Mutaqqien. 
+                    Saya berusia 22 tahun, saya belajar website dengan materi yang diberikan dosen
+                    dan melihat youtube di channel mandan koding.
+                </p>
+            </div>
+             <!-- Personal Data-->
+             <div class="resume-item resume-personal">
+                <div class="title">
+                    <p class="bold">Personal Data</p>
+            </div>
+                <p>Nama: Luthfi Sulthany Mutaqqien</p>
+                <p>NIM : 230401020039</p>
+                <P>Tempat Tanggal Lahir: Sumedang 26 Februari 2002</P>
+                <p>Alamat: Dusun Ciherang rt 02 rw 03 Desa Ciherang Kecamatan Sumedang Selatan Kabupaten Sumedang</p>
+                <p>Hobi: Bermain game dan Travel ke Alam</p>
+            </div>
+                </li>
+            </ul>
+            <!-- Work Experience-->
+            <div class="resume-item resume-work">
+                <div class="title">
+                    <p class="bold">Work Experience</p>
+            </div>
+            <ul>
+                <li>
+                    <div class="date">2020-Sekarang</div>
+                <p class="semi-bold">EKS GROUP
+                </p>
+                <p>Saya bekerja di PT. EKS GROUP.
+                   Lulus SMA saya bekerja disini sampai sekarang. Perusahaan ini
+                   merupakan bidang properti terbesar di Sumedang. Saya bekerja sebagai administrasi dan melakukan 
+                   pembayaran ke Bank seperti PBB, PBG, BPHTB, dan membuat kerja sama dengan Notaris.
+                   <p>Kedepannya saya ingin bekerja sebagai IT yang ahli</p>
+                </p>
+            </div>
+                </li>
+            </ul>
+             <!--Education-->
+             <div class="resume-item resume-education">
+                <div class="title">
+                    <p class="bold">Education</p>
+                </div>
+                <ul>
+                    <li>
+                        <div class="date">2014-2017</div>
+                        <div class="info">
+                            <p class="semi-bold"> Junior High School</p>
+                            <p>SMP Negeri 1 Sumedang</p>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="date">2017-2020</div>
+                        <div class="info">
+                            <p class="semi-bold"> Senior High School</p>
+                            <p>SMA Negeri 3 Sumedang</p>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="date">2021-2022</div>
+                        <div class="info">
+                            <p class="semi-bold">College</p>
+                            <p>Binus University</p>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="date">2022-Sekarang</div>
+                        <div class="info">
+                            <p class="semi-bold">College</p>
+                            <p>Cyber Asia University</p>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+             <!-- Sertifikasi-->
+             <div class="resume-item resume-sertificate">
+                <div class="title">
+                    <p class="bold">Sertifikasi</p>
+            </div>
+            <ul>
+                <li>
+                    
+                <p> Volunteer Formula E Prix Jakarta 2023</p>
+                <p> Volunteer PTPS 2024</p>
+                <p> Adobe Photoshop 2021</p>
+            </div>
+                </li>
+            </ul>
+
+        </div>
+   </div>
+</body>
+</html>
